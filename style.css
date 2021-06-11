@@ -1,0 +1,53 @@
+div{
+   background-color: lightcyan; 
+   text-align: center;
+   color: darkgreen;
+   border: 2px solid darkorange;
+
+}
+.container{
+    text-decoration: none;
+    background-color: #FEF9E7;
+    outline:  2px solid
+    color:darkblue;
+    background-image: url("college.jpg");
+    background-size: 60% ;
+    background-repeat:  no-repeat;
+    overflow-y: scroll;
+    font-size: larger;
+    text-align:right;
+    background-position:left;
+    margin-right: 0px;
+    padding-right: 60px;
+}
+.skills{
+    font-size: larger;
+    outline: 2px solid;
+    background-image: url("coder.jpg");
+    background-size: 50%  ;
+    background-repeat:no-repeat;
+    font-size: larger;
+    text-align: center;
+    background-position: left-side;
+}
+.experience{
+    font-size: larger;
+    outline: 2px solid;
+    background-image: url(comapny.png);
+    text-decoration: none;
+    text-align: left;
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size:45% ;
+    color:#512E5F;
+    padding-left: 30px;
+    background-position-x: right;
+}
+    
+.discription{
+    font-size: larger;
+    background-color: #E5E8E8;
+    
+
+}
+
